@@ -1,0 +1,4 @@
+Item,Reference,Qty,Value,Description,Footprint,Manufacturer,Manufacturer Part Number,Supplier,DNP,Notes
+1,"D1, D2, D3",3,LED,"3 mm through-hole LED, color to be selected",LED_THT:LED_D3.0mm,Not specified,Not specified,To be selected,No,"Verify LED color, forward voltage and polarity before assembly."
+2,J1,1,Conn_01x04_Pin,"1x4 pin header, 2.54 mm pitch, horizontal",Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal,Not specified,Not specified,To be selected,No,"4-pin, 2.54 mm pitch through-hole header."
+3,"R1, R2, R3",3,1 kΩ,1 kΩ through-hole resistor,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,Not specified,Not specified,To be selected,No,Power rating not specified in source BOM; select a suitable rating for the circuit.
